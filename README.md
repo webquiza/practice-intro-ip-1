@@ -1,4 +1,4 @@
-#### By _**Carlos Urquoza**_
+#### By _**Carlos Urquiza**_
 
 # _Independent Project (Practice)_
 
