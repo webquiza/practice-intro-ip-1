@@ -1,0 +1,6 @@
+/* use css inheritance to change the font of entire web page*/
+
+body {
+  font-family: sans-serif;
+}
+
